@@ -1,0 +1,13 @@
+body {
+  font-family: 'Raleway', sans-serif;
+}
+
+#text-file {
+    overflow:hidden;
+    white-space:nowrap;
+    text-overflow: ellipsis;
+}
+
+.qualify {
+  width: 150px;
+}
